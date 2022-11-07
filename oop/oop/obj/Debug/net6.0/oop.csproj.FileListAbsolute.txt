@@ -1,0 +1,15 @@
+C:\Git\M320\oop\oop\bin\Debug\net6.0\oop.exe
+C:\Git\M320\oop\oop\bin\Debug\net6.0\oop.deps.json
+C:\Git\M320\oop\oop\bin\Debug\net6.0\oop.runtimeconfig.json
+C:\Git\M320\oop\oop\bin\Debug\net6.0\oop.dll
+C:\Git\M320\oop\oop\bin\Debug\net6.0\oop.pdb
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.csproj.AssemblyReference.cache
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.AssemblyInfoInputs.cache
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.AssemblyInfo.cs
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.csproj.CoreCompileInputs.cache
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.dll
+C:\Git\M320\oop\oop\obj\Debug\net6.0\refint\oop.dll
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.pdb
+C:\Git\M320\oop\oop\obj\Debug\net6.0\oop.genruntimeconfig.cache
+C:\Git\M320\oop\oop\obj\Debug\net6.0\ref\oop.dll
