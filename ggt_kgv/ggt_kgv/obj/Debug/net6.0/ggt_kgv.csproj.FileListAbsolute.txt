@@ -1,0 +1,15 @@
+C:\Git\M320\ggt_kgv\ggt_kgv\bin\Debug\net6.0\ggt_kgv.exe
+C:\Git\M320\ggt_kgv\ggt_kgv\bin\Debug\net6.0\ggt_kgv.deps.json
+C:\Git\M320\ggt_kgv\ggt_kgv\bin\Debug\net6.0\ggt_kgv.runtimeconfig.json
+C:\Git\M320\ggt_kgv\ggt_kgv\bin\Debug\net6.0\ggt_kgv.dll
+C:\Git\M320\ggt_kgv\ggt_kgv\bin\Debug\net6.0\ggt_kgv.pdb
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.csproj.AssemblyReference.cache
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.AssemblyInfoInputs.cache
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.AssemblyInfo.cs
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.csproj.CoreCompileInputs.cache
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.dll
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\refint\ggt_kgv.dll
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.pdb
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ggt_kgv.genruntimeconfig.cache
+C:\Git\M320\ggt_kgv\ggt_kgv\obj\Debug\net6.0\ref\ggt_kgv.dll
